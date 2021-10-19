@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 <!-- Actual text -->
 
 ## You can find me on:
-<a href = "mailto:rajsanghavi9@gmail.com?subject='Hey there, nice connecting with you'"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-<a href = "https://www.linkedin.com/in/raj-sanghavi-49a9821b3/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href = "mailto:rajsanghavi9@gmail.com?subject='Hey there, nice connecting with you'" target="_blank"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+<a href = "https://www.linkedin.com/in/raj-sanghavi-49a9821b3/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 
 ## I am familiar with:
 <!-- Icons -->
