@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome to my GitHub profile 👋
 
 <!--
 **raj2729/raj2729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-stats.vercel.app/api?username=raj2729&show_icons=true&theme=ayu-mirage&count_private=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj2729&layout=compact&theme=ayu-mirage"/>
+<img src="https://komarev.com/ghpvc/?username=raj2729"/>
