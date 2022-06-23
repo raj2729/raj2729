@@ -17,6 +17,14 @@ Here are some ideas to get you started:
 
 <img src="https://github-readme-stats.vercel.app/api?username=raj2729&show_icons=true&theme=ayu-mirage&count_private=true" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raj2729&layout=compact&theme=ayu-mirage"/>
+
+<!-- Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=raj2729&theme=dark" />
+
+<!-- Activity Graph -->
+<!-- <img alt="GitHub Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=raj2729&theme=xcode&hide_border=true&bg_color=0D1117&point=E31D44&hide_title=true&area=true" /> -->
+
+<!-- Profile Views -->
 <img src="https://komarev.com/ghpvc/?username=raj2729"/>
 
 <!-- Actual text -->
@@ -28,9 +36,6 @@ Here are some ideas to get you started:
 ## I am familiar with:
 <!-- Icons -->
 [2.2]: https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/linkedin-3-16.png (LinkedIn icon without padding)
-<!-- 
-<!-- Links to your social media accounts -->
-<!-- [2]: https://www.linkedin.com/in/shruti-solani/ -->
 
 <!-- Programming Languages -->
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;&nbsp;&nbsp;&nbsp;![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
